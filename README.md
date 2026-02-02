@@ -121,8 +121,8 @@ DalePay complies with:
 
 During beta testing:
 - Limited user data is collected
-- Maximum account balance: $50 USD
-- Maximum transaction: $20 USD
+- Maximum account balance: No Limit
+- Maximum transaction: No Limit
 - Data is handled with the same security standards
 
 ## Cryptocurrency Disclaimer
